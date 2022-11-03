@@ -13,5 +13,5 @@ with the Sigmoid activation function.
 
 The model minimizes the Negative Log Likelihood (The loss function in multi-class classification).
 
-*** IN THE ORIGINAL PROJECT THE MODEL USES A MUCH LARGER TRAIN SAMPLES SO THE ACCURACY IS MUCH HIGHER ***
+*** IN THE LOCAL PROJECT THE MODEL USES A MUCH GREATER AMOUNT OF TRAIN SAMPLES SO THE ACCURACY IS HIGHER ***
 
